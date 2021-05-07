@@ -10,5 +10,7 @@ And lastly, you also need some standard, single-row 2.54mm pitch pin headers. Yo
 
 # NOTE
 The "complete.jpg" image is for assembly reference, but is a photo of an earlier revision of the switch. Two things to note.
+
 One, the photo shows only five pins on each side going between the two PCBs; the final revision has seven pins. The additional two pins on each side are dummy pins only, just there to add mechanical stiffness.
+
 Two, the photo shows the 14 individual pins at the bottom of the switch with their little plastic sheathes still on. You should solder them like this, but for the RE-606 case you'll need to pull off all those little plastic things after soldering—otherwise the switch assembly will not fit under the 606 switch board. Basically, you want the bottom adapter board near to flush with the RE-606 PCB. (This also means you need to trim the excess from the pins that connect the two adapter boards.) I suspect that in a real 606 case, you'll want to leave the plastic bits on, but I cannot personally confirm this as I dont have a real 606 case to test. Please double-check before installing in anything but the RE-606 metal case.
