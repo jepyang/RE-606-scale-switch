@@ -1,2 +1,7 @@
 # RE-606-scale-switch
-files for recreating jepyang's 606 scale switch replacement
+
+In this repository you will find all the materials needed to recreate Jepyang's RE-606 scale switch replacement.
+
+There are two sets of gerber files, you will need to have both made into PCBs. I like Osh Park for small runs of tiny PCBs like this, but any manufacturer is probably fine.
+
+You also need to buy switches. SS24h01 is the generic part name, and they can be purchased from multiple suppliers. Be aware that there are multiple handle styles for this switch, and getting the right one is important for constructing the replacement switch. Ideally, you want the version with a cylindrical handle—I've seen this type listed as SS24h01 NAT5, but sometimes it's still listed without the extra suffix. I got mine here: https://www.electronicsurplus.com/wmc-ss24h01-nat5-switch-slide-contacts-dp4t-dc-4-position but I've also seen similar ones for sale on eBay and aliexpress. The switch cap STL file for 3D printing is sized for the cylindrical handle (and the switch cap is actually necessary for clearing the front panel enough to be functional; not simply aesthetic). Alternatively, there also exists a long-handled version of the switch, which should clear the front panel without any kind of cap. Unfortunately, this style is somewhat hard to find without ordering a large minimum quantity, but if you run into it, it'll work fine. The standard short, square/rectangular handle will not work—you may be able to design and 3d print a different switch cap but that's on you.
